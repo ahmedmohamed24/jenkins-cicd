@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return 'hello Jenkins,test slack 1';
+    return 'hello Jenkins,test slack 2';
 });
